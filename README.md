@@ -1,7 +1,7 @@
 # 📶 Introdução ao Tableau 2020: Fácil e Simples!
 
 <h1>
-   <img src="<img src="https://i.ibb.co/wWPJ5dy/image.jpg" alt="image" border="0">
+   <img src="https://i.ibb.co/wWPJ5dy/image.jpg" alt="image" border="0">
 </h1>
 <br>
 
