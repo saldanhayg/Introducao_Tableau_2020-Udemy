@@ -8,13 +8,13 @@
 ### Tópicos do curso
 <br>
  💢  Instalar o Tableau Public<br>
- 💢  Conheça o Tableau
- 💢  Conheça Tableau Desktop, Tableau Reader e Tableau Public
- 💢  Importação de Dados
- 💢  Crianção de Planilhas
- 💢  Criação de Painéis
- 💢  Painéis Animados
- 💢  Filtros, campos calculados e muito mais!
+ 💢  Conheça o Tableau<br>
+ 💢  Conheça Tableau Desktop, Tableau Reader e Tableau Public<br>
+ 💢  Importação de Dados<br>
+ 💢  Crianção de Planilhas<br>
+ 💢  Criação de Painéis<br>
+ 💢  Painéis Animados<br>
+ 💢  Filtros, campos calculados e muito mais!<br>
 <br>
 
 ### Dashboards
